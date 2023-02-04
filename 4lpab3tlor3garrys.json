@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1892102694116104976/63A9CB51968FADA74DFA18EBB603AAC62C91BB8A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "title": "alphabet lore",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1892102694116104976/63A9CB51968FADA74DFA18EBB603AAC62C91BB8A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Garry's Mod",
+      "title": "F",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1937136685235182478/5EDCEA92D7A4A4167D3F00742EE07D6E312AFB8B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Garry's Mod",
+      "title": "A",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1923627962634793606/7CE45C02AFC0970F64845BAB6EF0C75A14ED276C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Garry's Mod",
+      "title": "I",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1928132024188220557/72BE8183A7FAD680B06E07BA56F89514BCA523D4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Garry's Mod",
+      "title": "P",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1927006124305138415/382926335035DBE30AE4D19C1EE67F34950390FE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Garry's Mod",
+      "title": "F",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1928132024188168700/151717C2EC16EE8DD0967A9F549E1C6F95812119/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Garry's Mod",
+      "title": "L",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1927006124286885995/3D29903A198DF188359F70BBAB836AE91E410F0E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Garry's Mod",
+      "title": "alphabet lore",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2046358494328876748/59B2E6A9D30ED8BF2AB99AC060552870A2B85504/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Garry's Mod",
+      "title": "M",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1923627962638310806/0326B01965535D7D3C97A8030B75A6C107191C4F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Garry's Mod",
+      "title": "H",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1978798064091204768/7F4576BD342E072C56480A18AA62A21996F78325/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/alphabetgarry/lore10.html"
+    }
+	
+  ]
+}

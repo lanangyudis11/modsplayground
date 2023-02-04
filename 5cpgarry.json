@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "image": "https://media.moddb.com/images/downloads/1/210/209678/gm_construct0002.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "title": "SCP-097",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1778337332535810055/063513F4630B8BDE363A136D404E5CAF88CE12D9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Garry's Mod",
+      "title": "Apocalypse SCP",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1689397179262721728/1C8F74547FA021CF2F342DA4E90C7A68C2590B07/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Garry's Mod",
+      "title": "scp 173 scp 106 scp 096",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/320124366276376243/3DEF3F49A51C5D2E706585CEBCC621DA28CA6047/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Garry's Mod",
+      "title": "scp",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/720869426608613578/9BED1FC914370A49872E4EF1AA8802668098180F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Garry's Mod",
+      "title": "Enhanced SCP-096",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1832395953895938849/E45E3F99D63C380B45B7A3EB21449233C76D2114/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Garry's Mod",
+      "title": "SCP labels",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1832402869862815626/F5EE756EC9ED7C65837477140145BA455AD1CEC3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Garry's Mod",
+      "title": "SCP-939 as SCP-096!",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/970975363878197464/C1EA47DABA4225AF16C5FA64E91D8B60B0A8BF17/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Garry's Mod",
+      "title": "SCP-TCT - SCP-CARD",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1768195258846937368/0138B5F02F42B30A2307DB046A785B81E03052AF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Garry's Mod",
+      "title": "SCP 666",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/850470146284015444/7BEC6EB02AF2A1AC01EE686802FE38C14F473961/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Garry's Mod",
+      "title": "SCP-049&SCP-035",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1460807693986128451/E1FF405AD494ACCC2DC9543776461D84B49C5E13/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "https://moblwall.sveg.xyz/scp/scp10.html"
+    },
+	
+  ]
+}

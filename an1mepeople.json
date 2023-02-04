@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "image": "https://i.imgur.com/WmUc9PR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "title": "War Hammer",
+      "image": "https://top-mods.com/upload/000/u1/c/e/the-war-hammer-titan-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "People Playgrounds Mod",
+      "title": "SWORD MAN",
+      "image": "https://top-mods.com/upload/000/u1/5/6/energy-sword-man-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "People Playgrounds Mod",
+      "title": "Rocket Man",
+      "image": "https://top-mods.com/upload/000/u1/7/f/rocket-man-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "People Playgrounds Mod",
+      "title": "Chainsaw Man",
+      "image": "https://top-mods.com/upload/000/u1/d/a/chainsaw-man-anime-version-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "People Playgrounds Mod",
+      "title": "DC Power",
+      "image": "https://top-mods.com/upload/000/u1/8/d/dc-power-pack-gallery-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "People Playgrounds Mod",
+      "title": "piece Mod ",
+      "image": "https://top-mods.com/upload/000/u1/9/2/one-piece-mod-gallery-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "People Playgrounds Mod",
+      "title": "Punch Man",
+      "image": "https://top-mods.com/upload/000/u1/6/c/saitama-no-mods-ibiglaser-version-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "People Playgrounds Mod",
+      "title": "Rainbow Friends",
+      "image": "https://top-mods.com/upload/000/u1/c/2/rainbow-friends-mod-bonus-pack-gallery-normal.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "People Playgrounds Mod",
+      "title": "Spider-man",
+      "image": "https://top-mods.com/upload/000/u1/c/e/spider-man-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "People Playgrounds Mod",
+      "title": "Attack Titan",
+      "image": "https://top-mods.com/upload/000/u1/2/a/attack-titan-gallery-normal.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/anime/anime10.html"
+    },
+	
+  ]
+}

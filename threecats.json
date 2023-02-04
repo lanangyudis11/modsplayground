@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "image": "https://i.ytimg.com/vi/dtW0IDdGhao/maxresdefault.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "title": "cat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1656725884890294577/AA15940F507560AEED90DFB84DA956B53F7F8AB5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Garry's Mod",
+      "title": "The singing three",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/867369171925097593/33CC720ED3AEC090C865FA23C89D24358A0600BD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Garry's Mod",
+      "title": "Three Room",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1769328768775845263/6E87B419176606DE03D8EF304B544D2F450A2660/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Garry's Mod",
+      "title": "три хэткраба",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1859425696113486397/B43B73CC3EADE7FA9C98F9DD03F60AE6CB5049E6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Garry's Mod",
+      "title": "три джельтемента",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1906739168727439645/612181E95635B7150FF7778D09887D859DFA1E06/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat8.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Garry's Mod",
+      "title": "scope of the cat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1832407706622579139/DBFF7C264101080A14BA7EAF312998BEDC665288/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Garry's Mod",
+      "title": "cat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/4110089531251620198/ED0363EFDCF8D551DE71A3E84AD3A31E0F799BBB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Garry's Mod",
+      "title": "Cartoon Cat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1756935765112683961/9B3E91CF0C1BB6F1A279281EC105D705729781F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Garry's Mod",
+      "title": "настоящие мужики",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/87098056446056707/0E4F923D3925A65CBD2BDEAA7C8D73701255BDF7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Garry's Mod",
+      "title": "Walick the carryable cat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1902235071416646390/8DDA4ACC10B443DAA17A80E0BF463DA69D20726D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/threecat/cat10.html"
+    },
+	
+  ]
+}

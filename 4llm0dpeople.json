@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "image": "https://top-mods.com/upload/000/u1/9/c/david-beaver-gallery-big.webp"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "title": "TOS-1",
+      "image": "https://top-mods.com/upload/000/u1/d/d/tos-1-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "People Playgrounds Mod",
+      "title": "Gaz-66",
+      "image": "https://top-mods.com/upload/000/u1/1/9/gaz-66-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "People Playgrounds Mod",
+      "title": "Simple Map",
+      "image": "https://top-mods.com/upload/000/u1/4/6/simple-map-trenches-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "People Playgrounds Mod",
+      "title": "Pixel Beast",
+      "image": "https://top-mods.com/upload/000/u1/8/4/pb-pixel-beast-black-widow-spider-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "People Playgrounds Mod",
+      "title": "Volatol",
+      "image": "https://top-mods.com/upload/000/u1/f/b/volatol-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "People Playgrounds Mod",
+      "title": "Valkyrie",
+      "image": "https://top-mods.com/upload/000/u1/4/7/valkyrie-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "People Playgrounds Mod",
+      "title": "Melon Titan",
+      "image": "https://top-mods.com/upload/000/u1/3/2/melon-titan-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "People Playgrounds Mod",
+      "title": "BRP SVLK-14S",
+      "image": "https://top-mods.com/upload/000/u1/d/4/brp-svlk-14s-twilight-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "People Playgrounds Mod",
+      "title": "Firetruck Mod",
+      "image": "https://top-mods.com/upload/000/u1/a/7/firetruck-mod-126-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "People Playgrounds Mod",
+      "title": "Melee Weapons",
+      "image": "https://top-mods.com/upload/000/u1/a/a/melee-weapons-pack-mwp-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "http://moblwall.sveg.xyz/allmodpeople/all10.html"
+    },
+	
+  ]
+}

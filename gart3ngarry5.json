@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "image": "https://img.tapimg.net/market/images/8feb7433d7428d6355034c965ab31cf9.png?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "title": "Garten of Banban Nextbot",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2046357221770855832/A037863B6078514DA1C0CF56EB07A4177A8544BB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod Choo Choo Charles",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Garry's Mod",
+      "title": "ophils bird",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2036224757693810886/29B00286F26A1BBB2AB0E283B1FCA6078B0BED6F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Garry's Mod",
+      "title": "playtime",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/991240521119942637/80BCBA3028F002795CCCA643877C7410FC0D97DA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Garry's Mod",
+      "title": "poppy",
+      "image": "javascript:ShowEnlargedImagePreview( 'https://steamuserimages-a.akamaihd.net/ugc/1872933956681864690/BA06DF92568656B7DAFD0471872F3C912F92D239/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false%27%20);",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Garry's Mod",
+      "title": "Playtime Lobby",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2015957924269809815/9246D0EDF397E5F1F44E46D321190DECC6F4AEDC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Garry's Mod",
+      "title": "poppy playtime",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1779508477338731951/16C9900C6ABDBC6D8892FDA1AE05ECE20A853B2A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Garry's Mod",
+      "title": "poppy ",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1860576126699454701/10FDD3D8D55EAAD475E89E01E79602AAB81452E3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Garry's Mod",
+      "title": "playtime ",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1788514602794798082/C9DDDE7D918817FBD09E22781D1FD0B3E352E64C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Garry's Mod",
+      "title": "huggy ",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1800901737756132999/B676D24EB88126D94587609E20FC5C53490BD639/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Garry's Mod",
+      "title": "mommy",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1835786036388227478/18540901D0E183E071F0C72AC2B93A6F1B50C3D5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/gartenban/garten10.html"
+    }
+	
+  ]
+}

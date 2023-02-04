@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "image": "https://top-mods.com/upload/000/u1/3/3/rocket-voltic-photo-big.webp"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "People Playgrounds Mod",
+      "title": "Rocket Voltic",
+      "image": "https://top-mods.com/upload/000/u1/3/3/rocket-voltic-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car1.html"
+    },
+   {
+      "id": 2,
+      "name_category": "People Playgrounds Mod",
+      "title": "Ps Ford F-150",
+      "image": "https://top-mods.com/upload/000/u1/d/e/ps-ford-f-150-ranger-1980-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "People Playgrounds Mod",
+      "title": "Async Buggy",
+      "image": "https://top-mods.com/upload/000/u1/9/0/async-buggy-fully-destructible-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "People Playgrounds Mod",
+      "title": "Mustang GT",
+      "image": "https://top-mods.com/upload/000/u1/e/f/ps-ford-mustang-gt-2005-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "People Playgrounds Mod",
+      "title": "VAZ 2107",
+      "image": "https://top-mods.com/upload/000/u1/6/1/ps-vaz-2107-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "People Playgrounds Mod",
+      "title": "VECO-LMV",
+      "image": "https://top-mods.com/upload/000/u1/7/c/the-vehicle-project-iveco-lmv-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "People Playgrounds Mod",
+      "title": "Volkswagen Golf",
+      "image": "https://top-mods.com/upload/000/u1/7/9/volkswagen-golf-mk2-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "People Playgrounds Mod",
+      "title": "Mutant Truck",
+      "image": "https://top-mods.com/upload/000/u1/d/5/mutant-truck-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "People Playgrounds Mod",
+      "title": "E30 TUNED",
+      "image": "https://top-mods.com/upload/011/u1103/9/b/e30-tuned-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "People Playgrounds Mod",
+      "title": "Gaz 66",
+      "image": "https://top-mods.com/upload/000/u1/e/d/gaz-66-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/carpeople/car10.html"
+    },
+	
+  ]
+}

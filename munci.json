@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+   
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1982177846338227299/9AF9757311DCF286DFB7743E1177B359C2E9830C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Garry's Mod",
+      "title": "HyperMunci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1893228189112816667/9DB55E11B459CC50F833E85793978A1DB85BCFE3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci.html"
+    },
+   {
+      "id": 2,
+      "name_category": "Garry's Mod",
+      "title": "MT Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1982177846338227299/9AF9757311DCF286DFB7743E1177B359C2E9830C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Garry's Mod",
+      "title": "MW Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1983302387925669659/700F891F99E35456A0DC4CA9574BCD3311446777/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Garry's Mod",
+      "title": "MR Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1983302387922535161/727C7D3098967EDCAFEE164DDA98063DE074A6F0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci4.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Garry's Mod",
+      "title": "UltraMunci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1893228189116782029/41D8BFA5F739E3854AB4B9F47F8822102363BBC4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci5.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Garry's Mod",
+      "title": "Spooky Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1937136685239488683/F35FB426E859EEF7161D3EB1CD358CD9CC292FF5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci6.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Garry's Mod",
+      "title": "HYPER MUNCI",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1915746590718625392/D076984FC402884C468BCC109FAB2CD17993F09C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci7.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Garry's Mod",
+      "title": "Enraged Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1911242992201242017/C1D3706543EF15ACBFF6766FB6A7C7A764026175/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci8.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Garry's Mod",
+      "title": "Angry Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/5112180131464268500/AF3087559066A658B54A8565318E81B539818C12/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci9.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Garry's Mod",
+      "title": "Evil Munci",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1892100150997189588/AD793E64AF87D9F0953D8506B0F61DF70F055768/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "description": "Mod/Addons for Garry's Mod",
+      "link": "http://moblwall.sveg.xyz/munci/munci10.html"
+    },
+	
+  ]
+}
