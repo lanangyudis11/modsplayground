@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://steamuserimages-a.akamaihd.net/ugc/1902235071416646390/8DDA4ACC10B443DAA17A80E0BF463DA69D20726D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
       "description": "Mod/Addons for Garry's Mod",
       "link": "http://moblwall.sveg.xyz/threecat/cat10.html"
-    },
+    }
 	
   ]
 }
