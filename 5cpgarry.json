@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://steamuserimages-a.akamaihd.net/ugc/1460807693986128451/E1FF405AD494ACCC2DC9543776461D84B49C5E13/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
       "description": "Mod/Addons for Garry's Mod",
       "link": "https://moblwall.sveg.xyz/scp/scp10.html"
-    },
+    }
 	
   ]
 }
