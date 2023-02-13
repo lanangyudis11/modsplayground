@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://steamuserimages-a.akamaihd.net/ugc/1892100150997189588/AD793E64AF87D9F0953D8506B0F61DF70F055768/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
       "description": "Mod/Addons for Garry's Mod",
       "link": "http://moblwall.sveg.xyz/munci/munci10.html"
-    },
+    }
 	
   ]
 }
