@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://top-mods.com/upload/000/u1/a/a/scp-610-mod-photo-big.webp",
       "description": "Mod/Addons for People Playgrounds Mod",
       "link": "https://moblwall.sveg.xyz/scppeople/scp10.html"
-    },
+    }
 	
   ]
 }
