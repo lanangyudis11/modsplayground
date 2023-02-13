@@ -25,7 +25,14 @@
 			"link_redirect": "https://"
 		}
 	],
-	"More": [],
+	"More": [
+	{
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+	],
 	"Categories": [
 		{
 			"id": 1,
