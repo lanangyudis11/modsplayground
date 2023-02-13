@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://steamuserimages-a.akamaihd.net/ugc/1928129485992066281/3B5D6806B77D2A5ACDD7F52FA72890B646BAE89E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
       "description": "Mod/Addons for Garry's Mod",
       "link": "http://moblwall.sveg.xyz/nextbot/next10.html"
-    },
+    }
 	
   ]
 }
