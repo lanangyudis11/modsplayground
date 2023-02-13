@@ -26,7 +26,12 @@
     }
   ],
    "More": [
-   
+   {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
   ],
   "Categories": [
     {
@@ -115,7 +120,7 @@
       "image": "https://top-mods.com/upload/000/u1/2/a/attack-titan-gallery-normal.webp",
       "description": "Mod/Addons for People Playgrounds Mod",
       "link": "http://moblwall.sveg.xyz/anime/anime10.html"
-    },
+    }
 	
   ]
 }
