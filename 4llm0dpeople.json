@@ -120,7 +120,168 @@
       "image": "https://top-mods.com/upload/000/u1/a/a/melee-weapons-pack-mwp-photo-big.webp",
       "description": "Mod/Addons for People Playgrounds Mod",
       "link": "http://moblwall.sveg.xyz/allmodpeople/all10.html"
+    },
+	  {
+      "id": 11,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-106",
+      "image": "https://top-mods.com/upload/000/u1/5/1/jmc-s-scp-106-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp1.html"
+    },
+   {
+      "id": 12,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-1366",
+      "image": "https://top-mods.com/upload/000/u1/8/1/scp-1366-ru-uncle-stepa-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp2.html"
+    },
+    {
+      "id": 13,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-939",
+      "image": "https://top-mods.com/upload/000/u1/3/4/jmc-s-scp-939-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp3.html"
+    },
+    {
+      "id": 14,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP Foundation",
+      "image": "https://top-mods.com/upload/010/u1009/6/3/scp-ppg-edition-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp4.html"
+    },
+	{
+      "id": 15,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-610",
+      "image": "https://top-mods.com/upload/011/u1103/9/6/jmc-s-scp-610-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp5.html"
+    },
+	{
+      "id": 16,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-009",
+      "image": "https://top-mods.com/upload/011/u1103/d/d/jmc-s-scp-009-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp6.html"
+    },
+	{
+      "id": 17,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-096",
+      "image": "https://top-mods.com/upload/000/u1/c/8/jmc-s-scp-096-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp7.html"
+    },
+	{
+      "id": 18,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-002",
+      "image": "https://top-mods.com/upload/000/u1/4/1/scp-002-the-living-room-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp8.html"
+    },
+	{
+      "id": 19,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-354",
+      "image": "https://top-mods.com/upload/000/u1/0/9/scp-354-scarlet-lake-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp9.html"
+    },
+	{
+      "id": 20,
+      "name_category": "People Playgrounds Mod",
+      "title": "SCP-610",
+      "image": "https://top-mods.com/upload/000/u1/a/a/scp-610-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/scppeople/scp10.html"
+    },
+	  {
+      "id": 21,
+      "name_category": "People Playgrounds Mod",
+      "title": "People Playground 3D",
+      "image": "https://top-mods.com/upload/000/u1/d/1/people-playground-3d-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d1.html"
+    },
+   {
+      "id": 22,
+      "name_category": "People Playgrounds Mod",
+      "title": "Combine Soldier",
+      "image": "https://top-mods.com/upload/000/u1/8/4/combine-soldier-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d2.html"
+    },
+    {
+      "id": 23,
+      "name_category": "People Playgrounds Mod",
+      "title": "Clone Trooper",
+      "image": "https://top-mods.com/upload/000/u1/1/9/barbeq-s-clone-trooper-pack-remastered-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d3.html"
+    },
+    {
+      "id": 24,
+      "name_category": "People Playgrounds Mod",
+      "title": "Xenomorph ",
+      "image": "https://top-mods.com/upload/000/u1/4/5/xenomorph-drone-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d4.html"
+    },
+	{
+      "id": 25,
+      "name_category": "People Playgrounds Mod",
+      "title": "Chainsaw Devil",
+      "image": "https://top-mods.com/upload/000/u1/d/9/chainsaw-devil-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d5.html"
+    },
+	{
+      "id": 26,
+      "name_category": "People Playgrounds Mod",
+      "title": "Combine Civil",
+      "image": "https://top-mods.com/upload/000/u1/2/e/combine-civil-protection-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d6.html"
+    },
+	{
+      "id": 27,
+      "name_category": "People Playgrounds Mod",
+      "title": "Entropy Zero",
+      "image": "https://top-mods.com/upload/010/u1009/a/0/entropy-zero-mod-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d7.html"
+    },
+	{
+      "id": 28,
+      "name_category": "People Playgrounds Mod",
+      "title": "Soldier",
+      "image": "https://top-mods.com/upload/000/u1/4/0/soldier-people-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d8.html"
+    },
+	{
+      "id": 29,
+      "name_category": "People Playgrounds Mod",
+      "title": "Banban",
+      "image": "https://top-mods.com/upload/000/u1/0/c/banban-garten-of-banban-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d9.html"
+    },
+	{
+      "id": 30,
+      "name_category": "People Playgrounds Mod",
+      "title": "Gaia",
+      "image": "https://top-mods.com/upload/000/u1/0/f/gaia-photo-big.webp",
+      "description": "Mod/Addons for People Playgrounds Mod",
+      "link": "https://moblwall.sveg.xyz/3dpeople/3d10.html"
     }
+	  
 	
   ]
 }
