@@ -3,17 +3,17 @@
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "",
-			"main_ads_banner": "ca-app-pub-4911992248615168/3383245610",
-			"main_ads_intertitial": "ca-app-pub-4911992248615168/2070163947",
-			"main_ads_natives": "ca-app-pub-4911992248615168/2637156068",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
 			"backup_ads_natives": "",
 			"backup_ads_banner": "db4d5e8718b97d78",
 			"backup_ads_intertitial": "518cd97722c60b52",
-			"open_ads_admob": "ca-app-pub-4911992248615168/1324074390",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
 			"open_ads_alien": "",
 			"switch_open_ads": "1",
 			"switch_banner_natives_ads": "1",
-			"interval_intertitial": 2,
+			"interval_intertitial": 5,
 			"initialize_sdk": "107355779",
 			"initialize_sdk_backup_ads": "",
 			"high_paying_keyword_1": "",
@@ -120,167 +120,7 @@
 			"image": "https://steamuserimages-a.akamaihd.net/ugc/531760574335071157/EFA98521BED66BA3E2513D3350DE6E944A189935/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
 			"description": "Mod/Addons for Garry's Mod Choo Choo Charles",
 			"link": "http://moblwall.sveg.xyz/choog/choo10.html"
-		},
-		{
-      "id": 11,
-      "name_category": "Garry's Mod",
-      "title": "Megan",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1806481879401510319/232CDF8C7511B6AF0FF8115C05FF404AD19775E0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod Choo Choo Charles",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan.html"
-    },
-   {
-      "id": 12,
-      "name_category": "Garry's Mod",
-      "title": "Speed Nextbot",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1773875305528049950/304419D1168D7B9235D3567A7FF005BC35A0F73F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan2.html"
-    },
-    {
-      "id": 13,
-      "name_category": "Garry's Mod",
-      "title": "Jerma Nextbot",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1860576126706837434/3BBF77C6BE73B3CA3BE5DA0405FDEAE36C3E9AE9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan3.html"
-    },
-    {
-      "id": 14,
-      "name_category": "Garry's Mod",
-      "title": "The Wok",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1928129485997153345/21FF946C0F7DC5BFF03370EDC276B258A1D9806B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan4.html"
-    },
-	{
-      "id": 15,
-      "name_category": "Garry's Mod",
-      "title": "Yoshie",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1881967054577951365/F3929EA9810D8AA0D0B7F0A5D8491FCAC9B1E6D4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan5.html"
-    },
-	{
-      "id": 16,
-      "name_category": "Garry's Mod",
-      "title": "This Man",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1881967589809705567/871A69F8ECBE35D8A5F92BCC115D577516D7AF38/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan6.html"
-    },
-	{
-      "id": 17,
-      "name_category": "Garry's Mod",
-      "title": "Megan",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1865059510676129012/A1D553282D0A416477519EA9E8891FE9D706374E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan7.html"
-    },
-	{
-      "id": 18,
-      "name_category": "Garry's Mod",
-      "title": "Agent Megan",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/999180768156729806/0EB6A5672E3452E62DECDD106ECB77C6A7227725/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan8.html"
-    },
-	{
-      "id": 19,
-      "name_category": "Garry's Mod",
-      "title": "Alex's Guardian Angel",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1699532377257298274/1E7D1F10B475F8C389E39FD52AE5421540F0E3DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/m3gan/megan9.html"
-    },
-	{
-      "id": 20,
-      "name_category": "Garry's Mod",
-      "title": "Megan Thee",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1838053174474354305/3797FDC50A610F546F059250D9DA7B0824B89E99/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for M3gan Garry's Mod",
-      "link": "https://raw.githubusercontent.com/lanangyudis11/Mods-Playgrounds/main/m3gan/megan10.html"
-    },
-		{
-      "id": 21,
-      "name_category": "Garry's Mod",
-      "title": "HyperMunci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1893228189112816667/9DB55E11B459CC50F833E85793978A1DB85BCFE3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci.html"
-    },
-   {
-      "id": 22,
-      "name_category": "Garry's Mod",
-      "title": "MT Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1982177846338227299/9AF9757311DCF286DFB7743E1177B359C2E9830C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci2.html"
-    },
-    {
-      "id": 23,
-      "name_category": "Garry's Mod",
-      "title": "MW Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1983302387925669659/700F891F99E35456A0DC4CA9574BCD3311446777/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci3.html"
-    },
-    {
-      "id": 24,
-      "name_category": "Garry's Mod",
-      "title": "MR Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1983302387922535161/727C7D3098967EDCAFEE164DDA98063DE074A6F0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci4.html"
-    },
-	{
-      "id": 25,
-      "name_category": "Garry's Mod",
-      "title": "UltraMunci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1893228189116782029/41D8BFA5F739E3854AB4B9F47F8822102363BBC4/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci5.html"
-    },
-	{
-      "id": 26,
-      "name_category": "Garry's Mod",
-      "title": "Spooky Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1937136685239488683/F35FB426E859EEF7161D3EB1CD358CD9CC292FF5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci6.html"
-    },
-	{
-      "id": 27,
-      "name_category": "Garry's Mod",
-      "title": "HYPER MUNCI",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1915746590718625392/D076984FC402884C468BCC109FAB2CD17993F09C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci7.html"
-    },
-	{
-      "id": 28,
-      "name_category": "Garry's Mod",
-      "title": "Enraged Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1911242992201242017/C1D3706543EF15ACBFF6766FB6A7C7A764026175/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci8.html"
-    },
-	{
-      "id": 29,
-      "name_category": "Garry's Mod",
-      "title": "Angry Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/5112180131464268500/AF3087559066A658B54A8565318E81B539818C12/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci9.html"
-    },
-	{
-      "id": 30,
-      "name_category": "Garry's Mod",
-      "title": "Evil Munci",
-      "image": "https://steamuserimages-a.akamaihd.net/ugc/1892100150997189588/AD793E64AF87D9F0953D8506B0F61DF70F055768/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-      "description": "Mod/Addons for Garry's Mod",
-      "link": "http://moblwall.sveg.xyz/munci/munci10.html"
-    }
+		}
 		
 	]
 }
